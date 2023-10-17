@@ -11,19 +11,19 @@ This repository contains qualifications and coursework related to business analy
 
 |                                                             Career Tracks                                                              | Completed  |
 | :------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
-| [Quantitative Analyst with R](https://github.com/Katsuvest/Business_Analyst/blob/master/20230317_Quantitative_Analyst_with_R-SOA.pdf)  | 17/03/2023 |
-| [Statistician with R](https://github.com/Katsuvest/Business_Analyst/blob/master/20230414_Statistician_with_R-SOA.pdf)                  | 14/04/2023 |
+| [Quantitative Analyst with R](https://github.com/Katsuvest/Business-Analyst/blob/master/20230317_Quantitative_Analyst_with_R-SOA.pdf)  | 17/03/2023 |
+| [Statistician with R](https://github.com/Katsuvest/Business-Analyst/blob/master/20230414_Statistician_with_R-SOA.pdf)                  | 14/04/2023 |
 
 
 |                                                                Skill Tracks                                                                  | Completed  |
 | :------------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
-| [Applied Finance in Python](https://github.com/Katsuvest/Business_Analyst/blob/master/20230927_Applied_Finance_in_Python-SOA.pdf)            | 27/09/2023 |
-| [Applied Finance with R](https://github.com/Katsuvest/Business_Analyst/blob/master/20230321_Applied_Finance_in_R_SOA.pdf)                    | 21/03/2023 |
-| [Finance Fundamentals](https://github.com/Katsuvest/Business_Analyst/blob/master/20230130_Finance_Fundamentals_in_Spreadsheets_SOA.pdf)      | 30/01/2023 |
-| [Finance Fundamentals in Python](https://github.com/Katsuvest/Business_Analyst/blob/master/20230917_Finance_Fundamentals_in_Python-SOA.pdf)  | 17/09/2023 |
-| [Finance Fundamentals in R](https://github.com/Katsuvest/Business_Analyst/blob/master/20230309_Finance_Fundamentals_in_R_SOA.pdf)            | 09/03/2023 |
-| [Market Analytics with R](https://github.com/Katsuvest/Business_Analyst/blob/master/20230504_Marketing_Analytics_with_R.pdf)                 | 04/05/2023 |
-| [Marketing Analysis with Python](https://github.com/Katsuvest/Business_Analyst/blob/master/20231007_Marketing_Analysis_with_Python)          | 07/10/2023 |
+| [Applied Finance in Python](https://github.com/Katsuvest/Business-Analyst/blob/master/20230927_Applied_Finance_in_Python-SOA.pdf)            | 27/09/2023 |
+| [Applied Finance with R](https://github.com/Katsuvest/Business-Analyst/blob/master/20230321_Applied_Finance_in_R_SOA.pdf)                    | 21/03/2023 |
+| [Finance Fundamentals](https://github.com/Katsuvest/Business-Analyst/blob/master/20230130_Finance_Fundamentals_in_Spreadsheets_SOA.pdf)      | 30/01/2023 |
+| [Finance Fundamentals in Python](https://github.com/Katsuvest/Business-Analyst/blob/master/20230917_Finance_Fundamentals_in_Python-SOA.pdf)  | 17/09/2023 |
+| [Finance Fundamentals in R](https://github.com/Katsuvest/Business-Analyst/blob/master/20230309_Finance_Fundamentals_in_R_SOA.pdf)            | 09/03/2023 |
+| [Market Analytics with R](https://github.com/Katsuvest/Business-Analyst/blob/master/20230504_Marketing_Analytics_with_R.pdf)                 | 04/05/2023 |
+| [Marketing Analysis with Python](https://github.com/Katsuvest/Business-Analyst/blob/master/20231007_Marketing_Analysis_with_Python)          | 07/10/2023 |
 
 
 ## Courses
